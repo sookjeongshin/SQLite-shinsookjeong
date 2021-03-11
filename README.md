@@ -1,0 +1,3 @@
+- 특징
+- RecyclerView 예제: https"//webnautes.tistory.com/1234
+- 3개 객체: List객체(DB) <-> 어뎁터클래스 <-> 리사이클러뷰 콤포넌트
